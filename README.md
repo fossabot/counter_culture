@@ -1,4 +1,5 @@
 # counter_culture [![Build Status](https://travis-ci.org/magnusvk/counter_culture.svg)](https://travis-ci.org/magnusvk/counter_culture)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fcounter_culture.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fcounter_culture?ref=badge_shield)
 
 Turbo-charged counter caches for your Rails app. Huge improvements over the Rails standard counter caches:
 
@@ -326,3 +327,7 @@ counter_culture now supports polymorphic associations of one level only.
 ## Copyright
 
 Copyright (c) 2012-2013 BestVendor, Magnus von Koeller. See LICENSE.txt for further details.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fcounter_culture.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fcounter_culture?ref=badge_large)
